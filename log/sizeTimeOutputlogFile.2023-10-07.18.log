@@ -1,0 +1,148 @@
+[2023-10-07 19:20:31] - Repository safe user: DjTjapka
+[2023-10-07 19:20:31] - Replied to User: Алекс
+[2023-10-07 19:26:21] - Closing JPA EntityManagerFactory for persistence unit 'default'
+[2023-10-07 19:26:21] - HikariPool-1 - Shutdown initiated...
+[2023-10-07 19:26:21] - HikariPool-1 - Shutdown completed.
+[2023-10-07 19:26:27] - Starting App using Java 17.0.8 with PID 10212 (F:\Java\qwest\target\classes started by tjapka in F:\Java\qwest)
+[2023-10-07 19:26:27] - No active profile set, falling back to 1 default profile: "default"
+[2023-10-07 19:26:27] - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+[2023-10-07 19:26:27] - Finished Spring Data repository scanning in 34 ms. Found 1 JPA repository interfaces.
+[2023-10-07 19:26:28] - Tomcat initialized with port(s): 8080 (http)
+[2023-10-07 19:26:28] - Initializing ProtocolHandler ["http-nio-8080"]
+[2023-10-07 19:26:28] - Starting service [Tomcat]
+[2023-10-07 19:26:28] - Starting Servlet engine: [Apache Tomcat/10.1.12]
+[2023-10-07 19:26:28] - Initializing Spring embedded WebApplicationContext
+[2023-10-07 19:26:28] - Root WebApplicationContext: initialization completed in 977 ms
+[2023-10-07 19:26:28] - HHH000204: Processing PersistenceUnitInfo [name: default]
+[2023-10-07 19:26:28] - HHH000412: Hibernate ORM core version 6.2.7.Final
+[2023-10-07 19:26:28] - HHH000406: Using bytecode reflection optimizer
+[2023-10-07 19:26:28] - HHH000021: Bytecode provider name : bytebuddy
+[2023-10-07 19:26:28] - No LoadTimeWeaver setup: ignoring JPA class transformer
+[2023-10-07 19:26:28] - HikariPool-1 - Starting...
+[2023-10-07 19:26:29] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@749d7c01
+[2023-10-07 19:26:29] - HikariPool-1 - Start completed.
+[2023-10-07 19:26:29] - HHH000021: Bytecode provider name : bytebuddy
+[2023-10-07 19:26:29] - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+[2023-10-07 19:26:29] - Initialized JPA EntityManagerFactory for persistence unit 'default'
+[2023-10-07 19:26:30] - error setting bots command List: Error executing org.telegram.telegrambots.meta.api.methods.commands.SetMyCommands query: [400] Bad Request: BOT_COMMAND_INVALID
+[2023-10-07 19:26:30] - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+[2023-10-07 19:26:30] - Starting ProtocolHandler ["http-nio-8080"]
+[2023-10-07 19:26:30] - Tomcat started on port(s): 8080 (http) with context path ''
+[2023-10-07 19:26:30] - Started App in 3.664 seconds (process running for 4.362)
+[2023-10-07 19:27:00] - Repository safe user: DjTjapka
+[2023-10-07 19:27:01] - Replied to User: Алекс
+[2023-10-07 19:31:11] - Closing JPA EntityManagerFactory for persistence unit 'default'
+[2023-10-07 19:31:11] - HikariPool-1 - Shutdown initiated...
+[2023-10-07 19:31:11] - HikariPool-1 - Shutdown completed.
+[2023-10-07 19:31:44] - Starting App using Java 17.0.8 with PID 14876 (F:\Java\qwest\target\classes started by tjapka in F:\Java\qwest)
+[2023-10-07 19:31:44] - No active profile set, falling back to 1 default profile: "default"
+[2023-10-07 19:31:45] - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+[2023-10-07 19:31:45] - Finished Spring Data repository scanning in 35 ms. Found 1 JPA repository interfaces.
+[2023-10-07 19:31:45] - Tomcat initialized with port(s): 8080 (http)
+[2023-10-07 19:31:45] - Initializing ProtocolHandler ["http-nio-8080"]
+[2023-10-07 19:31:45] - Starting service [Tomcat]
+[2023-10-07 19:31:45] - Starting Servlet engine: [Apache Tomcat/10.1.12]
+[2023-10-07 19:31:45] - Initializing Spring embedded WebApplicationContext
+[2023-10-07 19:31:45] - Root WebApplicationContext: initialization completed in 921 ms
+[2023-10-07 19:31:46] - HHH000204: Processing PersistenceUnitInfo [name: default]
+[2023-10-07 19:31:46] - HHH000412: Hibernate ORM core version 6.2.7.Final
+[2023-10-07 19:31:46] - HHH000406: Using bytecode reflection optimizer
+[2023-10-07 19:31:46] - HHH000021: Bytecode provider name : bytebuddy
+[2023-10-07 19:31:46] - No LoadTimeWeaver setup: ignoring JPA class transformer
+[2023-10-07 19:31:46] - HikariPool-1 - Starting...
+[2023-10-07 19:31:46] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@749d7c01
+[2023-10-07 19:31:46] - HikariPool-1 - Start completed.
+[2023-10-07 19:31:46] - HHH000021: Bytecode provider name : bytebuddy
+[2023-10-07 19:31:47] - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+[2023-10-07 19:31:47] - Initialized JPA EntityManagerFactory for persistence unit 'default'
+[2023-10-07 19:31:47] - error setting bots command List: Error executing org.telegram.telegrambots.meta.api.methods.commands.SetMyCommands query: [400] Bad Request: BOT_COMMAND_INVALID
+[2023-10-07 19:31:47] - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+[2023-10-07 19:31:48] - Starting ProtocolHandler ["http-nio-8080"]
+[2023-10-07 19:31:48] - Tomcat started on port(s): 8080 (http) with context path ''
+[2023-10-07 19:31:48] - Started App in 3.603 seconds (process running for 4.302)
+[2023-10-07 19:31:55] - Replied to User: Алекс
+[2023-10-07 19:41:20] - Closing JPA EntityManagerFactory for persistence unit 'default'
+[2023-10-07 19:41:20] - HikariPool-1 - Shutdown initiated...
+[2023-10-07 19:41:20] - HikariPool-1 - Shutdown completed.
+[2023-10-07 19:41:24] - Starting App using Java 17.0.8 with PID 23488 (F:\Java\qwest\target\classes started by tjapka in F:\Java\qwest)
+[2023-10-07 19:41:24] - No active profile set, falling back to 1 default profile: "default"
+[2023-10-07 19:41:25] - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+[2023-10-07 19:41:25] - Finished Spring Data repository scanning in 36 ms. Found 1 JPA repository interfaces.
+[2023-10-07 19:41:25] - Tomcat initialized with port(s): 8080 (http)
+[2023-10-07 19:41:25] - Initializing ProtocolHandler ["http-nio-8080"]
+[2023-10-07 19:41:25] - Starting service [Tomcat]
+[2023-10-07 19:41:25] - Starting Servlet engine: [Apache Tomcat/10.1.12]
+[2023-10-07 19:41:25] - Initializing Spring embedded WebApplicationContext
+[2023-10-07 19:41:25] - Root WebApplicationContext: initialization completed in 984 ms
+[2023-10-07 19:41:25] - HHH000204: Processing PersistenceUnitInfo [name: default]
+[2023-10-07 19:41:25] - HHH000412: Hibernate ORM core version 6.2.7.Final
+[2023-10-07 19:41:25] - HHH000406: Using bytecode reflection optimizer
+[2023-10-07 19:41:26] - HHH000021: Bytecode provider name : bytebuddy
+[2023-10-07 19:41:26] - No LoadTimeWeaver setup: ignoring JPA class transformer
+[2023-10-07 19:41:26] - HikariPool-1 - Starting...
+[2023-10-07 19:41:26] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@749d7c01
+[2023-10-07 19:41:26] - HikariPool-1 - Start completed.
+[2023-10-07 19:41:26] - HHH000021: Bytecode provider name : bytebuddy
+[2023-10-07 19:41:27] - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+[2023-10-07 19:41:27] - Initialized JPA EntityManagerFactory for persistence unit 'default'
+[2023-10-07 19:41:27] - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'botInitializer' defined in file [F:\Java\qwest\target\classes\com\tele\qwest\Config\BotInitializer.class]: Unsatisfied dependency expressed through constructor parameter 0: Error creating bean with name 'telegramBot' defined in file [F:\Java\qwest\target\classes\com\tele\qwest\service\TelegramBot.class]: Failed to instantiate [com.tele.qwest.service.TelegramBot]: Constructor threw exception
+[2023-10-07 19:41:27] - Closing JPA EntityManagerFactory for persistence unit 'default'
+[2023-10-07 19:41:27] - HikariPool-1 - Shutdown initiated...
+[2023-10-07 19:41:27] - HikariPool-1 - Shutdown completed.
+[2023-10-07 19:41:27] - Stopping service [Tomcat]
+[2023-10-07 19:41:27] - 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+[2023-10-07 19:41:27] - Application run failed
+org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'botInitializer' defined in file [F:\Java\qwest\target\classes\com\tele\qwest\Config\BotInitializer.class]: Unsatisfied dependency expressed through constructor parameter 0: Error creating bean with name 'telegramBot' defined in file [F:\Java\qwest\target\classes\com\tele\qwest\service\TelegramBot.class]: Failed to instantiate [com.tele.qwest.service.TelegramBot]: Constructor threw exception
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:800)
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:245)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireConstructor(AbstractAutowireCapableBeanFactory.java:1352)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1189)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:560)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:520)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:326)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:324)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:200)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:973)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:942)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:608)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:146)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:734)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:436)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:312)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1306)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1295)
+	at com.tele.qwest.App.main(App.java:10)
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'telegramBot' defined in file [F:\Java\qwest\target\classes\com\tele\qwest\service\TelegramBot.class]: Failed to instantiate [com.tele.qwest.service.TelegramBot]: Constructor threw exception
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:326)
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:314)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireConstructor(AbstractAutowireCapableBeanFactory.java:1352)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1189)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:560)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:520)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:326)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:324)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:200)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:254)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1417)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1337)
+	at org.springframework.beans.factory.support.ConstructorResolver.resolveAutowiredArgument(ConstructorResolver.java:888)
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:791)
+	... 19 common frames omitted
+Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.tele.qwest.service.TelegramBot]: Constructor threw exception
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:224)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:110)
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:323)
+	... 33 common frames omitted
+Caused by: java.lang.NullPointerException: Cannot load from object array because "this.questions" is null
+	at com.tele.qwest.service.TelegramBot.<init>(TelegramBot.java:70)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:211)
+	... 35 common frames omitted

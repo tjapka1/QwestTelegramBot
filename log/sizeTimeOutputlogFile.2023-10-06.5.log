@@ -1,0 +1,140 @@
+[2023-10-06 15:50:29] - Closing JPA EntityManagerFactory for persistence unit 'default'
+[2023-10-06 15:50:29] - HikariPool-1 - Shutdown initiated...
+[2023-10-06 15:50:29] - HikariPool-1 - Shutdown completed.
+[2023-10-06 15:51:52] - Starting App using Java 17.0.8 with PID 15320 (F:\Java\qwest\target\classes started by tjapka in F:\Java\qwest)
+[2023-10-06 15:51:52] - No active profile set, falling back to 1 default profile: "default"
+[2023-10-06 15:51:52] - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+[2023-10-06 15:51:52] - Finished Spring Data repository scanning in 35 ms. Found 1 JPA repository interfaces.
+[2023-10-06 15:51:53] - Tomcat initialized with port(s): 8080 (http)
+[2023-10-06 15:51:53] - Initializing ProtocolHandler ["http-nio-8080"]
+[2023-10-06 15:51:53] - Starting service [Tomcat]
+[2023-10-06 15:51:53] - Starting Servlet engine: [Apache Tomcat/10.1.12]
+[2023-10-06 15:51:53] - Initializing Spring embedded WebApplicationContext
+[2023-10-06 15:51:53] - Root WebApplicationContext: initialization completed in 985 ms
+[2023-10-06 15:51:53] - HHH000204: Processing PersistenceUnitInfo [name: default]
+[2023-10-06 15:51:53] - HHH000412: Hibernate ORM core version 6.2.7.Final
+[2023-10-06 15:51:53] - HHH000406: Using bytecode reflection optimizer
+[2023-10-06 15:51:53] - HHH000021: Bytecode provider name : bytebuddy
+[2023-10-06 15:51:53] - No LoadTimeWeaver setup: ignoring JPA class transformer
+[2023-10-06 15:51:53] - HikariPool-1 - Starting...
+[2023-10-06 15:51:54] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@749d7c01
+[2023-10-06 15:51:54] - HikariPool-1 - Start completed.
+[2023-10-06 15:51:54] - HHH000021: Bytecode provider name : bytebuddy
+[2023-10-06 15:51:54] - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+[2023-10-06 15:51:54] - Initialized JPA EntityManagerFactory for persistence unit 'default'
+[2023-10-06 15:51:55] - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+[2023-10-06 15:51:55] - Starting ProtocolHandler ["http-nio-8080"]
+[2023-10-06 15:51:55] - Tomcat started on port(s): 8080 (http) with context path ''
+[2023-10-06 15:51:55] - Started App in 3.618 seconds (process running for 4.316)
+[2023-10-06 16:06:26] - Closing JPA EntityManagerFactory for persistence unit 'default'
+[2023-10-06 16:06:26] - HikariPool-1 - Shutdown initiated...
+[2023-10-06 16:06:26] - HikariPool-1 - Shutdown completed.
+[2023-10-06 16:06:32] - Starting App using Java 17.0.8 with PID 23524 (F:\Java\qwest\target\classes started by tjapka in F:\Java\qwest)
+[2023-10-06 16:06:32] - No active profile set, falling back to 1 default profile: "default"
+[2023-10-06 16:06:32] - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+[2023-10-06 16:06:32] - Finished Spring Data repository scanning in 36 ms. Found 1 JPA repository interfaces.
+[2023-10-06 16:06:33] - Tomcat initialized with port(s): 8080 (http)
+[2023-10-06 16:06:33] - Initializing ProtocolHandler ["http-nio-8080"]
+[2023-10-06 16:06:33] - Starting service [Tomcat]
+[2023-10-06 16:06:33] - Starting Servlet engine: [Apache Tomcat/10.1.12]
+[2023-10-06 16:06:33] - Initializing Spring embedded WebApplicationContext
+[2023-10-06 16:06:33] - Root WebApplicationContext: initialization completed in 936 ms
+[2023-10-06 16:06:33] - HHH000204: Processing PersistenceUnitInfo [name: default]
+[2023-10-06 16:06:33] - HHH000412: Hibernate ORM core version 6.2.7.Final
+[2023-10-06 16:06:33] - HHH000406: Using bytecode reflection optimizer
+[2023-10-06 16:06:33] - HHH000021: Bytecode provider name : bytebuddy
+[2023-10-06 16:06:33] - No LoadTimeWeaver setup: ignoring JPA class transformer
+[2023-10-06 16:06:33] - HikariPool-1 - Starting...
+[2023-10-06 16:06:33] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@749d7c01
+[2023-10-06 16:06:33] - HikariPool-1 - Start completed.
+[2023-10-06 16:06:33] - HHH000021: Bytecode provider name : bytebuddy
+[2023-10-06 16:06:34] - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+[2023-10-06 16:06:34] - Initialized JPA EntityManagerFactory for persistence unit 'default'
+[2023-10-06 16:06:35] - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+[2023-10-06 16:06:35] - Starting ProtocolHandler ["http-nio-8080"]
+[2023-10-06 16:06:35] - Tomcat started on port(s): 8080 (http) with context path ''
+[2023-10-06 16:06:35] - Started App in 3.637 seconds (process running for 4.334)
+[2023-10-06 16:06:40] - Replied to User: Алекс
+[2023-10-06 16:08:06] - Index 4 out of bounds for length 4
+java.lang.ArrayIndexOutOfBoundsException: Index 4 out of bounds for length 4
+	at com.tele.qwest.service.TelegramBot.getQuestion(TelegramBot.java:138)
+	at com.tele.qwest.service.TelegramBot.checking(TelegramBot.java:125)
+	at com.tele.qwest.service.TelegramBot.onUpdateReceived(TelegramBot.java:106)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.telegram.telegrambots.meta.generics.LongPollingBot.onUpdatesReceived(LongPollingBot.java:27)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$HandlerThread.run(DefaultBotSession.java:317)
+[2023-10-06 16:21:52] - Closing JPA EntityManagerFactory for persistence unit 'default'
+[2023-10-06 16:21:52] - HikariPool-1 - Shutdown initiated...
+[2023-10-06 16:21:52] - HikariPool-1 - Shutdown completed.
+[2023-10-06 16:21:57] - Starting App using Java 17.0.8 with PID 23012 (F:\Java\qwest\target\classes started by tjapka in F:\Java\qwest)
+[2023-10-06 16:21:57] - No active profile set, falling back to 1 default profile: "default"
+[2023-10-06 16:21:58] - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+[2023-10-06 16:21:58] - Finished Spring Data repository scanning in 35 ms. Found 1 JPA repository interfaces.
+[2023-10-06 16:21:58] - Tomcat initialized with port(s): 8080 (http)
+[2023-10-06 16:21:58] - Initializing ProtocolHandler ["http-nio-8080"]
+[2023-10-06 16:21:58] - Starting service [Tomcat]
+[2023-10-06 16:21:58] - Starting Servlet engine: [Apache Tomcat/10.1.12]
+[2023-10-06 16:21:58] - Initializing Spring embedded WebApplicationContext
+[2023-10-06 16:21:58] - Root WebApplicationContext: initialization completed in 956 ms
+[2023-10-06 16:21:58] - HHH000204: Processing PersistenceUnitInfo [name: default]
+[2023-10-06 16:21:58] - HHH000412: Hibernate ORM core version 6.2.7.Final
+[2023-10-06 16:21:58] - HHH000406: Using bytecode reflection optimizer
+[2023-10-06 16:21:58] - HHH000021: Bytecode provider name : bytebuddy
+[2023-10-06 16:21:58] - No LoadTimeWeaver setup: ignoring JPA class transformer
+[2023-10-06 16:21:58] - HikariPool-1 - Starting...
+[2023-10-06 16:21:59] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@794cb26b
+[2023-10-06 16:21:59] - HikariPool-1 - Start completed.
+[2023-10-06 16:21:59] - HHH000021: Bytecode provider name : bytebuddy
+[2023-10-06 16:21:59] - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+[2023-10-06 16:21:59] - Initialized JPA EntityManagerFactory for persistence unit 'default'
+[2023-10-06 16:22:00] - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+[2023-10-06 16:22:00] - Starting ProtocolHandler ["http-nio-8080"]
+[2023-10-06 16:22:00] - Tomcat started on port(s): 8080 (http) with context path ''
+[2023-10-06 16:22:00] - Started App in 3.709 seconds (process running for 4.403)
+[2023-10-06 16:22:22] - Replied to User: Алекс
+[2023-10-06 16:22:48] - Index 4 out of bounds for length 4
+java.lang.ArrayIndexOutOfBoundsException: Index 4 out of bounds for length 4
+	at com.tele.qwest.service.TelegramBot.checkAnswer(TelegramBot.java:156)
+	at com.tele.qwest.service.TelegramBot.checking(TelegramBot.java:125)
+	at com.tele.qwest.service.TelegramBot.onUpdateReceived(TelegramBot.java:110)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.telegram.telegrambots.meta.generics.LongPollingBot.onUpdatesReceived(LongPollingBot.java:27)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$HandlerThread.run(DefaultBotSession.java:317)
+[2023-10-06 16:23:03] - Replied to User: Алекс
+[2023-10-06 16:23:58] - Index 4 out of bounds for length 4
+java.lang.ArrayIndexOutOfBoundsException: Index 4 out of bounds for length 4
+	at com.tele.qwest.service.TelegramBot.getQuestion(TelegramBot.java:142)
+	at com.tele.qwest.service.TelegramBot.checking(TelegramBot.java:129)
+	at com.tele.qwest.service.TelegramBot.onUpdateReceived(TelegramBot.java:110)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.telegram.telegrambots.meta.generics.LongPollingBot.onUpdatesReceived(LongPollingBot.java:27)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$HandlerThread.run(DefaultBotSession.java:317)
+[2023-10-06 16:27:07] - Closing JPA EntityManagerFactory for persistence unit 'default'
+[2023-10-06 16:27:07] - HikariPool-1 - Shutdown initiated...
+[2023-10-06 16:27:07] - HikariPool-1 - Shutdown completed.
+[2023-10-06 16:27:12] - Starting App using Java 17.0.8 with PID 24044 (F:\Java\qwest\target\classes started by tjapka in F:\Java\qwest)
+[2023-10-06 16:27:12] - No active profile set, falling back to 1 default profile: "default"
+[2023-10-06 16:27:12] - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+[2023-10-06 16:27:12] - Finished Spring Data repository scanning in 34 ms. Found 1 JPA repository interfaces.
+[2023-10-06 16:27:12] - Tomcat initialized with port(s): 8080 (http)
+[2023-10-06 16:27:12] - Initializing ProtocolHandler ["http-nio-8080"]
+[2023-10-06 16:27:12] - Starting service [Tomcat]
+[2023-10-06 16:27:12] - Starting Servlet engine: [Apache Tomcat/10.1.12]
+[2023-10-06 16:27:12] - Initializing Spring embedded WebApplicationContext
+[2023-10-06 16:27:12] - Root WebApplicationContext: initialization completed in 949 ms
+[2023-10-06 16:27:13] - HHH000204: Processing PersistenceUnitInfo [name: default]
+[2023-10-06 16:27:13] - HHH000412: Hibernate ORM core version 6.2.7.Final
+[2023-10-06 16:27:13] - HHH000406: Using bytecode reflection optimizer
+[2023-10-06 16:27:13] - HHH000021: Bytecode provider name : bytebuddy
+[2023-10-06 16:27:13] - No LoadTimeWeaver setup: ignoring JPA class transformer
+[2023-10-06 16:27:13] - HikariPool-1 - Starting...
+[2023-10-06 16:27:13] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@5f7cd50e
+[2023-10-06 16:27:13] - HikariPool-1 - Start completed.
+[2023-10-06 16:27:13] - HHH000021: Bytecode provider name : bytebuddy
+[2023-10-06 16:27:14] - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+[2023-10-06 16:27:14] - Initialized JPA EntityManagerFactory for persistence unit 'default'
+[2023-10-06 16:27:14] - error setting bots command List: Error executing org.telegram.telegrambots.meta.api.methods.commands.SetMyCommands query: [400] Bad Request: BOT_COMMAND_INVALID
+[2023-10-06 16:27:14] - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+[2023-10-06 16:27:15] - Starting ProtocolHandler ["http-nio-8080"]
+[2023-10-06 16:27:15] - Tomcat started on port(s): 8080 (http) with context path ''
+[2023-10-06 16:27:15] - Started App in 3.592 seconds (process running for 4.299)

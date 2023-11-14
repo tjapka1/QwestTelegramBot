@@ -1,0 +1,136 @@
+[2023-10-06 14:47:01] - Closing JPA EntityManagerFactory for persistence unit 'default'
+[2023-10-06 14:47:01] - HikariPool-1 - Shutdown initiated...
+[2023-10-06 14:47:01] - HikariPool-1 - Shutdown completed.
+[2023-10-06 14:47:06] - Starting App using Java 17.0.8 with PID 12536 (F:\Java\qwest\target\classes started by tjapka in F:\Java\qwest)
+[2023-10-06 14:47:06] - No active profile set, falling back to 1 default profile: "default"
+[2023-10-06 14:47:06] - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+[2023-10-06 14:47:06] - Finished Spring Data repository scanning in 41 ms. Found 1 JPA repository interfaces.
+[2023-10-06 14:47:07] - Tomcat initialized with port(s): 8080 (http)
+[2023-10-06 14:47:07] - Root WebApplicationContext: initialization completed in 1056 ms
+[2023-10-06 14:47:07] - HHH000204: Processing PersistenceUnitInfo [name: default]
+[2023-10-06 14:47:07] - HHH000412: Hibernate ORM core version 6.2.7.Final
+[2023-10-06 14:47:07] - HHH000406: Using bytecode reflection optimizer
+[2023-10-06 14:47:07] - HHH000021: Bytecode provider name : bytebuddy
+[2023-10-06 14:47:07] - No LoadTimeWeaver setup: ignoring JPA class transformer
+[2023-10-06 14:47:07] - HikariPool-1 - Starting...
+[2023-10-06 14:47:07] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@63bca84d
+[2023-10-06 14:47:07] - HikariPool-1 - Start completed.
+[2023-10-06 14:47:08] - HHH000021: Bytecode provider name : bytebuddy
+[2023-10-06 14:47:08] - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+[2023-10-06 14:47:08] - Initialized JPA EntityManagerFactory for persistence unit 'default'
+[2023-10-06 14:47:09] - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+[2023-10-06 14:47:09] - Tomcat started on port(s): 8080 (http) with context path ''
+[2023-10-06 14:47:09] - Started App in 4.012 seconds (process running for 4.886)
+[2023-10-06 14:47:09] - Closing JPA EntityManagerFactory for persistence unit 'default'
+[2023-10-06 14:47:09] - HikariPool-1 - Shutdown initiated...
+[2023-10-06 14:47:09] - HikariPool-1 - Shutdown completed.
+[2023-10-06 14:47:16] - Starting App using Java 17.0.8 with PID 23188 (F:\Java\qwest\target\classes started by tjapka in F:\Java\qwest)
+[2023-10-06 14:47:16] - No active profile set, falling back to 1 default profile: "default"
+[2023-10-06 14:47:16] - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+[2023-10-06 14:47:16] - Finished Spring Data repository scanning in 35 ms. Found 1 JPA repository interfaces.
+[2023-10-06 14:47:17] - Tomcat initialized with port(s): 8080 (http)
+[2023-10-06 14:47:17] - Initializing ProtocolHandler ["http-nio-8080"]
+[2023-10-06 14:47:17] - Starting service [Tomcat]
+[2023-10-06 14:47:17] - Starting Servlet engine: [Apache Tomcat/10.1.12]
+[2023-10-06 14:47:17] - Initializing Spring embedded WebApplicationContext
+[2023-10-06 14:47:17] - Root WebApplicationContext: initialization completed in 941 ms
+[2023-10-06 14:47:17] - HHH000204: Processing PersistenceUnitInfo [name: default]
+[2023-10-06 14:47:17] - HHH000412: Hibernate ORM core version 6.2.7.Final
+[2023-10-06 14:47:17] - HHH000406: Using bytecode reflection optimizer
+[2023-10-06 14:47:17] - HHH000021: Bytecode provider name : bytebuddy
+[2023-10-06 14:47:17] - No LoadTimeWeaver setup: ignoring JPA class transformer
+[2023-10-06 14:47:17] - HikariPool-1 - Starting...
+[2023-10-06 14:47:18] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@749d7c01
+[2023-10-06 14:47:18] - HikariPool-1 - Start completed.
+[2023-10-06 14:47:18] - HHH000021: Bytecode provider name : bytebuddy
+[2023-10-06 14:47:18] - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+[2023-10-06 14:47:19] - Initialized JPA EntityManagerFactory for persistence unit 'default'
+[2023-10-06 14:47:19] - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+[2023-10-06 14:47:20] - Starting ProtocolHandler ["http-nio-8080"]
+[2023-10-06 14:47:20] - Tomcat started on port(s): 8080 (http) with context path ''
+[2023-10-06 14:47:20] - Started App in 4.182 seconds (process running for 4.913)
+[2023-10-06 14:47:55] - Closing JPA EntityManagerFactory for persistence unit 'default'
+[2023-10-06 14:47:55] - HikariPool-1 - Shutdown initiated...
+[2023-10-06 14:47:55] - HikariPool-1 - Shutdown completed.
+[2023-10-06 14:48:00] - Starting App using Java 17.0.8 with PID 20004 (F:\Java\qwest\target\classes started by tjapka in F:\Java\qwest)
+[2023-10-06 14:48:00] - No active profile set, falling back to 1 default profile: "default"
+[2023-10-06 14:48:00] - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+[2023-10-06 14:48:00] - Finished Spring Data repository scanning in 34 ms. Found 1 JPA repository interfaces.
+[2023-10-06 14:48:00] - Tomcat initialized with port(s): 8080 (http)
+[2023-10-06 14:48:00] - Initializing ProtocolHandler ["http-nio-8080"]
+[2023-10-06 14:48:00] - Starting service [Tomcat]
+[2023-10-06 14:48:00] - Starting Servlet engine: [Apache Tomcat/10.1.12]
+[2023-10-06 14:48:01] - Initializing Spring embedded WebApplicationContext
+[2023-10-06 14:48:01] - Root WebApplicationContext: initialization completed in 949 ms
+[2023-10-06 14:48:01] - HHH000204: Processing PersistenceUnitInfo [name: default]
+[2023-10-06 14:48:01] - HHH000412: Hibernate ORM core version 6.2.7.Final
+[2023-10-06 14:48:01] - HHH000406: Using bytecode reflection optimizer
+[2023-10-06 14:48:01] - HHH000021: Bytecode provider name : bytebuddy
+[2023-10-06 14:48:01] - No LoadTimeWeaver setup: ignoring JPA class transformer
+[2023-10-06 14:48:01] - HikariPool-1 - Starting...
+[2023-10-06 14:48:01] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@69a73867
+[2023-10-06 14:48:01] - HikariPool-1 - Start completed.
+[2023-10-06 14:48:01] - HHH000021: Bytecode provider name : bytebuddy
+[2023-10-06 14:48:02] - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+[2023-10-06 14:48:02] - Initialized JPA EntityManagerFactory for persistence unit 'default'
+[2023-10-06 14:48:02] - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+[2023-10-06 14:48:03] - Starting ProtocolHandler ["http-nio-8080"]
+[2023-10-06 14:48:03] - Tomcat started on port(s): 8080 (http) with context path ''
+[2023-10-06 14:48:03] - Started App in 3.612 seconds (process running for 4.309)
+[2023-10-06 14:48:29] - Closing JPA EntityManagerFactory for persistence unit 'default'
+[2023-10-06 14:48:29] - HikariPool-1 - Shutdown initiated...
+[2023-10-06 14:48:29] - HikariPool-1 - Shutdown completed.
+[2023-10-06 14:48:31] - Starting App using Java 17.0.8 with PID 7544 (F:\Java\qwest\target\classes started by tjapka in F:\Java\qwest)
+[2023-10-06 14:48:31] - No active profile set, falling back to 1 default profile: "default"
+[2023-10-06 14:48:32] - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+[2023-10-06 14:48:32] - Finished Spring Data repository scanning in 37 ms. Found 1 JPA repository interfaces.
+[2023-10-06 14:48:32] - Tomcat initialized with port(s): 8080 (http)
+[2023-10-06 14:48:32] - Initializing ProtocolHandler ["http-nio-8080"]
+[2023-10-06 14:48:32] - Starting service [Tomcat]
+[2023-10-06 14:48:32] - Starting Servlet engine: [Apache Tomcat/10.1.12]
+[2023-10-06 14:48:32] - Initializing Spring embedded WebApplicationContext
+[2023-10-06 14:48:32] - Root WebApplicationContext: initialization completed in 1288 ms
+[2023-10-06 14:48:33] - HHH000204: Processing PersistenceUnitInfo [name: default]
+[2023-10-06 14:48:33] - HHH000412: Hibernate ORM core version 6.2.7.Final
+[2023-10-06 14:48:33] - HHH000406: Using bytecode reflection optimizer
+[2023-10-06 14:48:33] - HHH000021: Bytecode provider name : bytebuddy
+[2023-10-06 14:48:33] - No LoadTimeWeaver setup: ignoring JPA class transformer
+[2023-10-06 14:48:33] - HikariPool-1 - Starting...
+[2023-10-06 14:48:33] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@749d7c01
+[2023-10-06 14:48:33] - HikariPool-1 - Start completed.
+[2023-10-06 14:48:33] - HHH000021: Bytecode provider name : bytebuddy
+[2023-10-06 14:48:34] - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+[2023-10-06 14:48:34] - Initialized JPA EntityManagerFactory for persistence unit 'default'
+[2023-10-06 14:48:34] - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+[2023-10-06 14:48:35] - Starting ProtocolHandler ["http-nio-8080"]
+[2023-10-06 14:48:35] - Tomcat started on port(s): 8080 (http) with context path ''
+[2023-10-06 14:48:35] - Started App in 3.916 seconds (process running for 4.628)
+[2023-10-06 14:48:44] - Replied to User: Алекс
+[2023-10-06 15:03:15] - Closing JPA EntityManagerFactory for persistence unit 'default'
+[2023-10-06 15:03:15] - HikariPool-1 - Shutdown initiated...
+[2023-10-06 15:03:15] - HikariPool-1 - Shutdown completed.
+[2023-10-06 15:03:20] - Starting App using Java 17.0.8 with PID 5764 (F:\Java\qwest\target\classes started by tjapka in F:\Java\qwest)
+[2023-10-06 15:03:20] - No active profile set, falling back to 1 default profile: "default"
+[2023-10-06 15:03:20] - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+[2023-10-06 15:03:20] - Finished Spring Data repository scanning in 33 ms. Found 1 JPA repository interfaces.
+[2023-10-06 15:03:21] - Tomcat initialized with port(s): 8080 (http)
+[2023-10-06 15:03:21] - Initializing ProtocolHandler ["http-nio-8080"]
+[2023-10-06 15:03:21] - Starting service [Tomcat]
+[2023-10-06 15:03:21] - Starting Servlet engine: [Apache Tomcat/10.1.12]
+[2023-10-06 15:03:21] - Initializing Spring embedded WebApplicationContext
+[2023-10-06 15:03:21] - Root WebApplicationContext: initialization completed in 959 ms
+[2023-10-06 15:03:21] - HHH000204: Processing PersistenceUnitInfo [name: default]
+[2023-10-06 15:03:21] - HHH000412: Hibernate ORM core version 6.2.7.Final
+[2023-10-06 15:03:21] - HHH000406: Using bytecode reflection optimizer
+[2023-10-06 15:03:21] - HHH000021: Bytecode provider name : bytebuddy
+[2023-10-06 15:03:21] - No LoadTimeWeaver setup: ignoring JPA class transformer
+[2023-10-06 15:03:21] - HikariPool-1 - Starting...
+[2023-10-06 15:03:21] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@749d7c01
+[2023-10-06 15:03:21] - HikariPool-1 - Start completed.
+[2023-10-06 15:03:22] - HHH000021: Bytecode provider name : bytebuddy
+[2023-10-06 15:03:22] - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+[2023-10-06 15:03:22] - Initialized JPA EntityManagerFactory for persistence unit 'default'
+[2023-10-06 15:03:23] - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+[2023-10-06 15:03:23] - Starting ProtocolHandler ["http-nio-8080"]
+[2023-10-06 15:03:23] - Tomcat started on port(s): 8080 (http) with context path ''
+[2023-10-06 15:03:23] - Started App in 3.719 seconds (process running for 4.426)

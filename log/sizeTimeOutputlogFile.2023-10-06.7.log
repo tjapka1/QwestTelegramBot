@@ -1,0 +1,118 @@
+[2023-10-06 16:49:48] - Closing JPA EntityManagerFactory for persistence unit 'default'
+[2023-10-06 16:49:48] - HikariPool-1 - Shutdown initiated...
+[2023-10-06 16:49:48] - HikariPool-1 - Shutdown completed.
+[2023-10-06 16:49:53] - Starting App using Java 17.0.8 with PID 6492 (F:\Java\qwest\target\classes started by tjapka in F:\Java\qwest)
+[2023-10-06 16:49:53] - No active profile set, falling back to 1 default profile: "default"
+[2023-10-06 16:49:54] - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+[2023-10-06 16:49:54] - Finished Spring Data repository scanning in 33 ms. Found 1 JPA repository interfaces.
+[2023-10-06 16:49:54] - Tomcat initialized with port(s): 8080 (http)
+[2023-10-06 16:49:54] - Initializing ProtocolHandler ["http-nio-8080"]
+[2023-10-06 16:49:54] - Starting service [Tomcat]
+[2023-10-06 16:49:54] - Starting Servlet engine: [Apache Tomcat/10.1.12]
+[2023-10-06 16:49:54] - Initializing Spring embedded WebApplicationContext
+[2023-10-06 16:49:54] - Root WebApplicationContext: initialization completed in 976 ms
+[2023-10-06 16:49:54] - HHH000204: Processing PersistenceUnitInfo [name: default]
+[2023-10-06 16:49:54] - HHH000412: Hibernate ORM core version 6.2.7.Final
+[2023-10-06 16:49:54] - HHH000406: Using bytecode reflection optimizer
+[2023-10-06 16:49:54] - HHH000021: Bytecode provider name : bytebuddy
+[2023-10-06 16:49:55] - No LoadTimeWeaver setup: ignoring JPA class transformer
+[2023-10-06 16:49:55] - HikariPool-1 - Starting...
+[2023-10-06 16:49:55] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@69a73867
+[2023-10-06 16:49:55] - HikariPool-1 - Start completed.
+[2023-10-06 16:49:55] - HHH000021: Bytecode provider name : bytebuddy
+[2023-10-06 16:49:56] - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+[2023-10-06 16:49:56] - Initialized JPA EntityManagerFactory for persistence unit 'default'
+[2023-10-06 16:49:56] - error setting bots command List: Error executing org.telegram.telegrambots.meta.api.methods.commands.SetMyCommands query: [400] Bad Request: BOT_COMMAND_INVALID
+[2023-10-06 16:49:56] - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+[2023-10-06 16:49:57] - Starting ProtocolHandler ["http-nio-8080"]
+[2023-10-06 16:49:57] - Tomcat started on port(s): 8080 (http) with context path ''
+[2023-10-06 16:49:57] - Started App in 3.644 seconds (process running for 4.355)
+[2023-10-06 16:54:11] - Index 4 out of bounds for length 4
+java.lang.ArrayIndexOutOfBoundsException: Index 4 out of bounds for length 4
+	at com.tele.qwest.service.TelegramBot.getQuestion(TelegramBot.java:148)
+	at com.tele.qwest.service.TelegramBot.checking(TelegramBot.java:135)
+	at com.tele.qwest.service.TelegramBot.onUpdateReceived(TelegramBot.java:111)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.telegram.telegrambots.meta.generics.LongPollingBot.onUpdatesReceived(LongPollingBot.java:27)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$HandlerThread.run(DefaultBotSession.java:317)
+[2023-10-06 16:56:22] - Closing JPA EntityManagerFactory for persistence unit 'default'
+[2023-10-06 16:56:22] - HikariPool-1 - Shutdown initiated...
+[2023-10-06 16:56:22] - HikariPool-1 - Shutdown completed.
+[2023-10-06 16:56:27] - Starting App using Java 17.0.8 with PID 24056 (F:\Java\qwest\target\classes started by tjapka in F:\Java\qwest)
+[2023-10-06 16:56:27] - No active profile set, falling back to 1 default profile: "default"
+[2023-10-06 16:56:28] - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+[2023-10-06 16:56:28] - Finished Spring Data repository scanning in 35 ms. Found 1 JPA repository interfaces.
+[2023-10-06 16:56:28] - Tomcat initialized with port(s): 8080 (http)
+[2023-10-06 16:56:28] - Initializing ProtocolHandler ["http-nio-8080"]
+[2023-10-06 16:56:28] - Starting service [Tomcat]
+[2023-10-06 16:56:28] - Starting Servlet engine: [Apache Tomcat/10.1.12]
+[2023-10-06 16:56:28] - Initializing Spring embedded WebApplicationContext
+[2023-10-06 16:56:28] - Root WebApplicationContext: initialization completed in 969 ms
+[2023-10-06 16:56:28] - HHH000204: Processing PersistenceUnitInfo [name: default]
+[2023-10-06 16:56:28] - HHH000412: Hibernate ORM core version 6.2.7.Final
+[2023-10-06 16:56:28] - HHH000406: Using bytecode reflection optimizer
+[2023-10-06 16:56:29] - HHH000021: Bytecode provider name : bytebuddy
+[2023-10-06 16:56:29] - No LoadTimeWeaver setup: ignoring JPA class transformer
+[2023-10-06 16:56:29] - HikariPool-1 - Starting...
+[2023-10-06 16:56:29] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@749d7c01
+[2023-10-06 16:56:29] - HikariPool-1 - Start completed.
+[2023-10-06 16:56:29] - HHH000021: Bytecode provider name : bytebuddy
+[2023-10-06 16:56:30] - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+[2023-10-06 16:56:30] - Initialized JPA EntityManagerFactory for persistence unit 'default'
+[2023-10-06 16:56:30] - error setting bots command List: Error executing org.telegram.telegrambots.meta.api.methods.commands.SetMyCommands query: [400] Bad Request: BOT_COMMAND_INVALID
+[2023-10-06 16:56:30] - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+[2023-10-06 16:56:31] - Starting ProtocolHandler ["http-nio-8080"]
+[2023-10-06 16:56:31] - Tomcat started on port(s): 8080 (http) with context path ''
+[2023-10-06 16:56:31] - Started App in 3.623 seconds (process running for 4.304)
+[2023-10-06 16:56:39] - Index 4 out of bounds for length 4
+java.lang.ArrayIndexOutOfBoundsException: Index 4 out of bounds for length 4
+	at com.tele.qwest.service.TelegramBot.getQuestion(TelegramBot.java:148)
+	at com.tele.qwest.service.TelegramBot.onUpdateReceived(TelegramBot.java:103)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.telegram.telegrambots.meta.generics.LongPollingBot.onUpdatesReceived(LongPollingBot.java:27)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$HandlerThread.run(DefaultBotSession.java:317)
+[2023-10-06 16:56:44] - Index 4 out of bounds for length 4
+java.lang.ArrayIndexOutOfBoundsException: Index 4 out of bounds for length 4
+	at com.tele.qwest.service.TelegramBot.checking(TelegramBot.java:131)
+	at com.tele.qwest.service.TelegramBot.onUpdateReceived(TelegramBot.java:111)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.telegram.telegrambots.meta.generics.LongPollingBot.onUpdatesReceived(LongPollingBot.java:27)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$HandlerThread.run(DefaultBotSession.java:317)
+[2023-10-06 16:57:49] - Index 4 out of bounds for length 4
+java.lang.ArrayIndexOutOfBoundsException: Index 4 out of bounds for length 4
+	at com.tele.qwest.service.TelegramBot.getQuestion(TelegramBot.java:148)
+	at com.tele.qwest.service.TelegramBot.checking(TelegramBot.java:135)
+	at com.tele.qwest.service.TelegramBot.onUpdateReceived(TelegramBot.java:111)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.telegram.telegrambots.meta.generics.LongPollingBot.onUpdatesReceived(LongPollingBot.java:27)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$HandlerThread.run(DefaultBotSession.java:317)
+[2023-10-06 16:58:06] - Closing JPA EntityManagerFactory for persistence unit 'default'
+[2023-10-06 16:58:06] - HikariPool-1 - Shutdown initiated...
+[2023-10-06 16:58:06] - HikariPool-1 - Shutdown completed.
+[2023-10-06 17:02:26] - Starting App using Java 17.0.8 with PID 4696 (F:\Java\qwest\target\classes started by tjapka in F:\Java\qwest)
+[2023-10-06 17:02:26] - No active profile set, falling back to 1 default profile: "default"
+[2023-10-06 17:02:26] - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+[2023-10-06 17:02:26] - Finished Spring Data repository scanning in 37 ms. Found 1 JPA repository interfaces.
+[2023-10-06 17:02:27] - Tomcat initialized with port(s): 8080 (http)
+[2023-10-06 17:02:27] - Initializing ProtocolHandler ["http-nio-8080"]
+[2023-10-06 17:02:27] - Starting service [Tomcat]
+[2023-10-06 17:02:27] - Starting Servlet engine: [Apache Tomcat/10.1.12]
+[2023-10-06 17:02:27] - Initializing Spring embedded WebApplicationContext
+[2023-10-06 17:02:27] - Root WebApplicationContext: initialization completed in 977 ms
+[2023-10-06 17:02:27] - HHH000204: Processing PersistenceUnitInfo [name: default]
+[2023-10-06 17:02:27] - HHH000412: Hibernate ORM core version 6.2.7.Final
+[2023-10-06 17:02:27] - HHH000406: Using bytecode reflection optimizer
+[2023-10-06 17:02:27] - HHH000021: Bytecode provider name : bytebuddy
+[2023-10-06 17:02:27] - No LoadTimeWeaver setup: ignoring JPA class transformer
+[2023-10-06 17:02:27] - HikariPool-1 - Starting...
+[2023-10-06 17:02:28] - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@749d7c01
+[2023-10-06 17:02:28] - HikariPool-1 - Start completed.
+[2023-10-06 17:02:28] - HHH000021: Bytecode provider name : bytebuddy
+[2023-10-06 17:02:28] - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+[2023-10-06 17:02:28] - Initialized JPA EntityManagerFactory for persistence unit 'default'
+[2023-10-06 17:02:29] - error setting bots command List: Error executing org.telegram.telegrambots.meta.api.methods.commands.SetMyCommands query: [400] Bad Request: BOT_COMMAND_INVALID
+[2023-10-06 17:02:29] - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+[2023-10-06 17:02:29] - Starting ProtocolHandler ["http-nio-8080"]
+[2023-10-06 17:02:29] - Tomcat started on port(s): 8080 (http) with context path ''
+[2023-10-06 17:02:29] - Started App in 3.679 seconds (process running for 4.364)
+[2023-10-06 17:02:35] - Replied to User: Алекс
